@@ -34,7 +34,7 @@ cd CC-Test-unitaire
 2.  Installez les dépendances :
 
 ``` js
-npm install
+pnpm install
 ```
 
 Lancer les tests
